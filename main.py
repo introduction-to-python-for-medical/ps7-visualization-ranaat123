@@ -1,4 +1,3 @@
-![correlation_plot_Rana_Atalla_Python](https://github.com/user-attachments/assets/6bd643c2-5ae7-4078-a253-e42544ebc1bb)
 
 #step1
 # Import libraries
