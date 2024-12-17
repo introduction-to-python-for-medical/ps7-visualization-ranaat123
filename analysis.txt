@@ -1,4 +1,4 @@
 Flavanoids are a subset of phenols, so they contribute significantly to the total phenol content of wine.
-When there is more Flavanoids in the wine, i'd expect a higher concentration of Total Phenols in it since the Falvanoids are derived from the Phenols. This is shown in the attached saved figure.
+When there is more Flavanoids in the wine, i'd expect a higher concentration of Total Phenols in it since the Falvanoids are derived from the Phenols. This is shown in the attached saved figure (added to ReadME).
 Phenolic compounds occur naturally in wine. These include a large group of several hundred chemical compounds that affect the taste, color and mouthfeel of wine, like Falvanoids.
 Flavonoids contribute to the color and mouthfeel of the wine.
